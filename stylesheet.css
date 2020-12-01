@@ -1,0 +1,21 @@
+h1 {
+  font-family: 'Yellowtail', cursive;
+}
+p {
+  font-family: sans-serif;
+}
+body {
+  background-color: #F9F9F9;
+  border-style: ridge;
+  border: 20px, #grey;
+}
+
+h1, p {
+  color: #7AAC21;
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+a {
+  margin-left: 20px;
+}
